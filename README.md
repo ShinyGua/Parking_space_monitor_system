@@ -2,11 +2,17 @@
 
 **Author: Xiyu Wang**
 
-**Student ID: u6022863**
+**Time: 27/12/2020**
 
-**Course code: COMP8755**
+---
 
-**Time: 02/10/2029**
+## Description of Project
+
+This is a parking space monitoring system to predict whether multiple parking spaces were occupied or not. Besides, the real-time monitoring video is fuzzy by a physical blur filter fixed at a camera to preserve people' and the vehicles' privacy. The algorithm mainly relies on background subtraction, provided by OpenCV and convolutional neural network (CNN), supplied by TensorFlow. 
+
+THis is a short video demo about this project:
+
+[![Watch the video](https://img.youtube.com/vi/fakYAyz98ls/maxresdefault.jpg)](https://youtu.be/fakYAyz98ls)
 
 ---
 
